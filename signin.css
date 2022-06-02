@@ -1,0 +1,29 @@
+.gradient-custom {
+  background-color: #373737;
+}
+header {
+  background-color: #252525;
+  padding: 10px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: bolder;
+  font-style: italic;
+}
+.logo-div {
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-between; */
+  /* justify-content: space-around; */
+}
+.H1 {
+  /* display: none; */
+  /* font-size: x-large; */
+  color: #d1ad98;
+  font-size: 50px;
+  top: 100px;
+  position: relative;
+  margin-left: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
