@@ -278,3 +278,22 @@ body {
   width: 100%;
   text-align: center;
 }
+.bkng-atag {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+}
+.booking-btn {
+  display: flex;
+  justify-content: center;
+  background: #793a16;
+  padding: 13px 13px;
+  width: 27vw;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  align-self: center;
+  /* display: none; */
+}
