@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f1f9931.css",
+    "main.js": "/static/js/main.cb697b3b.js",
+    "static/media/islamabad.jpg": "/static/media/islamabad.abf1d9ccdd8c91e2d966.jpg",
+    "static/media/logo.png": "/static/media/logo.427cf582c5efd5158f2c.png",
+    "static/media/Bill.jpg": "/static/media/Bill.38f9513524ca59c509b5.jpg",
+    "static/media/karachi.jpg": "/static/media/karachi.1a99f3c8091ad5272cc6.jpg",
+    "static/media/delhi.jpg": "/static/media/delhi.ae137e3e5e3e4c7cdc37.jpg",
+    "index.html": "/index.html",
+    "main.7f1f9931.css.map": "/static/css/main.7f1f9931.css.map",
+    "main.cb697b3b.js.map": "/static/js/main.cb697b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1f9931.css",
+    "static/js/main.cb697b3b.js"
+  ]
+}
